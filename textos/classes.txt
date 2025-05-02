@@ -1,0 +1,1 @@
+#nome;vidaBase;manaBase;habilidadeEspecial
