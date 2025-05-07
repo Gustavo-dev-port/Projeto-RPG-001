@@ -1,1 +1,52 @@
 #nome;tipo;efeito;valor
+
+# POÇÕES
+Poção de Vida|poção|Recupera 50 HP|50|0|0|0|0
+Poção de Mana|poção|Recupera 30 MP|0|30|0|0|0
+Elixir Maior|poção|Recupera 100 HP e 50 MP|100|50|0|0|0
+Poção de Velocidade|poção|Aumenta velocidade por 3 turnos|0|0|0|0|5
+Poção de Força|poção|Aumenta força por 3 turnos|0|0|5|0|0
+
+# ARMAS
+Espada Longa|arma|Espada comum de aço|0|0|10|0|0
+Machado de Guerra|arma|Machado pesado e destruidor|0|0|15|0|0
+Arco Longo|arma|Ideal para ataques à distância|0|0|8|0|2
+Adaga Envenenada|arma|Pequena e ágil|0|0|5|0|4
+Martelo de Batalha|arma|Causa dano e atordoa|0|0|12|0|1
+Cajado de Carvalho|arma|Canaliza magias|0|0|3|5|0
+Espada Flamejante|arma|Causa dano de fogo|0|0|12|0|0
+Foice Sombria|arma|Favorece necromantes|0|0|9|4|0
+Clava Espinhosa|arma|Crítica contra armaduras|0|0|11|0|1
+Besta Leve|arma|Precisa de munição|0|0|9|0|3
+Lança Curta|arma|Bom alcance|0|0|10|0|0
+Garra de Urso|arma|Garras presas aos punhos|0|0|6|2|0
+Sabre de Luz|arma|Tecnologia mágica rara|0|0|14|3|0
+Báculo de Cristal|arma|Amplifica magias|0|0|2|6|0
+Katana Elfica|arma|Leve e afiada|0|0|11|1|2
+Tridente Rúnico|arma|Magia e dano físico|0|0|9|5|0
+Machado Duplo|arma|Difícil de manejar|0|0|13|-1|0
+Espada Curta|arma|Simples, mas eficaz|0|0|7|0|1
+Chicote de Ferro|arma|Pode prender inimigos|0|0|5|1|2
+Lança de Gelo|arma|Dano elemental|0|0|10|2|0
+
+# ARMADURAS
+Armadura de Couro|armadura|Leve, pouca proteção|0|0|0|2|1
+Cota de Malha|armadura|Proteção média|0|0|0|5|0
+Armadura de Placas|armadura|Proteção pesada|0|0|0|8|-1
+Manto Arcano|armadura|Favorece magos|0|10|0|1|3
+Túnica de Iniciado|armadura|Usada por aprendizes|0|5|0|0|2
+Escudo de Carvalho|armadura|Usado com armas de uma mão|0|0|0|3|0
+Couraça Rúnica|armadura|Gravada com runas mágicas|0|5|0|4|2
+Peitoral de Ferro|armadura|Protege o torso|0|0|0|6|0
+Armadura Sagrada|armadura|Usada por paladinos|0|5|0|5|2
+Vestes Negras|armadura|Usada por necromantes|0|10|0|1|1
+Pele de Dragão|armadura|Resistente e mágica|0|15|0|7|3
+Camisão de Malha|armadura|Intermediária|0|0|0|4|0
+Armadura Élfica|armadura|Leve e resistente|0|0|0|5|2
+Cota Dourada|armadura|Usada por nobres guerreiros|0|0|0|6|1
+Traje do Ladino|armadura|Permite maior mobilidade|0|0|0|3|3
+Roupas Cerimoniais|armadura|Pouco útil em combate|0|5|0|0|1
+Manto de Invisibilidade|armadura|Efeito furtivo|0|10|0|1|5
+Veste do Arcanista|armadura|Amplifica feitiços|0|10|0|2|3
+Malha de Mithril|armadura|Extremamente leve|0|0|0|7|4
+Armadura de Ossos|armadura|Criada com magia negra|0|5|0|4|0

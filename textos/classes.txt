@@ -1,5 +1,10 @@
-#nome;descriçao;nivel;PontosdeVida;PontosdeMana;Força;Destreza;Constituiçao;Inteligencia;Sabedoria;Carisma
+#nome|descriçao|nivel|PontosdeVida|PontosdeMana|Força|Destreza|Constituiçao|Inteligencia|Sabedoria|Carisma
 
-Guerreiro|Combate Corpo a Corpo.|1|20|2|16|12|14|8|10|10|Investida Poderosa, Contra-Ataque, Rasgar Armadura
-Mago|Usuário de magia arcana.|1|8|12|8|12|10|18|14|12|Bola de Fogo,Mísseis Mágicos,Escudo Mágico
-Paladino|Guerreiro sagrado|1|35|25|6|4|6|3|7|6|Punho Sagrado,Luz Curativa,Escudo da Fé
+Guerreiro|Combatente corpo a corpo focado em força e resistência|1|40|10|8|6|7|2|4|3|Investida Poderosa,Contra-Ataque,Rasgar Armadura
+Mago|Usuário de magia arcana com grande poder ofensivo|1|25|40|2|4|3|8|6|4|Bola de Fogo,Mísseis Mágicos,Escudo Mágico
+Paladino|Guerreiro sagrado que combina combate e cura divina|1|35|25|6|4|6|3|7|6|Punho Sagrado,Luz Curativa,Escudo da Fé
+Ladino|Especialista em furtividade, armadilhas e ataques críticos|1|30|15|5|8|4|4|5|6|Ataque Furtivo,Esquiva Rápida,Truque de Sombra
+Clérigo|Usuário de magia divina com habilidades de cura e suporte|1|33|30|4|4|5|5|8|7|Cura Divina,Barreira Sagrada,Exorcismo
+Ladino|Especialista em furtividade|1|75|20|14|18|12|12|12|14|Ataque Furtivo, Evasão, Armadilha
+Druida|Guardião da natureza|1|80|70|12|12|14|14|16|12|Forma Animal, Raízes Prendentes, Cura Natural
+Cavaleiro|Defensor leal e nobre|1|95|20|16|12|16|10|14|14|Investida Montada, Ordem de Honra, Escudo Protetor

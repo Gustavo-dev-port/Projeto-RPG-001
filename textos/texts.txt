@@ -1,0 +1,62 @@
+[CIDADE_BREE]
+Você está na cidade de Bree, um vilarejo tranquilo rodeado por colinas verdes. O som de canções ecoa da taverna local.
+
+[CIDADE_THORNYA]
+Thornya é uma cidade fortificada, lar de bravos cavaleiros. Suas muralhas guardam histórias de guerras antigas.
+
+[CIDADE_ELDORIA]
+Eldoria é um centro de magia e conhecimento. Torres de cristal brilham ao sol, refletindo poder arcano.
+
+[TAVERNA_BREE]
+A Taverna do Cervo Saltitante está cheia. Um bardo toca alaúde enquanto um anão conta histórias exageradas.
+
+[TAVERNA_THORNYA]
+Na Taverna da Lança Quebrada, soldados descansam e bebem após patrulhas pesadas. Um mural de missões chama sua atenção.
+
+[TAVERNA_ELDORIA]
+A Taverna do Grimório Aberto é silenciosa, frequentada por magos. O taberneiro oferece quests mágicas e raras.
+
+[QUEST_01]
+Uma criança desapareceu nos arredores de Bree. Dizem que ruídos estranhos vêm da caverna próxima. Investigue e traga-a de volta.
+
+[QUEST_02]
+Mercadores foram atacados no caminho entre Thornya e Eldoria. Rastros levam a um campo aberto tomado por bandidos.
+
+[QUEST_03]
+Um velho mago em Eldoria precisa de ingredientes raros de uma caverna infestada de aranhas gigantes.
+
+[QUEST_04]
+A taverna de Thornya procura aventureiros para escoltar uma caravana até Bree.
+
+[QUEST_05]
+O Conselho Arcano oferece recompensa por qualquer um que explore e mapeie as ruínas ao norte da cidade.
+
+[NPC_ANAO_TAVERNA]
+"Já enfrentei um dragão... ou talvez fosse uma vaca muito brava. Quem lembra depois de tanta cerveja?"
+
+[NARRACAO_CAVERNA_01]
+Você entra na caverna. O ar é úmido e o som de gotas d’água ecoa. Algo se move na escuridão.
+
+[NARRACAO_CAMPO_01]
+O campo aberto é vasto, com grama até os joelhos. Você sente que está sendo observado.
+
+[NARRACAO_VITORIA]
+Vocês derrotaram os inimigos! Seus corpos jazem no chão enquanto a poeira baixa.
+
+[NARRACAO_DERROTA]
+Seus companheiros caem um a um. A escuridão os envolve. O mundo desaparece.
+
+[INN_DESCANSO]
+Você repousa no INN. O conforto da cama restaura suas forças. Vida e mana foram recuperados.
+
+[SAVE_SUCESSO]
+Jogo salvo com sucesso.
+
+[LOAD_SUCESSO]
+Jogo carregado com sucesso.
+
+[ERRO_SALVAR]
+Erro ao salvar o jogo. Verifique permissões de escrita no disco.
+
+[ERRO_CARREGAR]
+Não foi possível carregar o save. Arquivo corrompido ou ausente.
